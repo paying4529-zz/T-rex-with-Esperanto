@@ -1,7 +1,8 @@
 # [語言的邏輯分析Final Project] T-rex-with-Esperanto
 
-## Teamwork
-林佩潁, 陳言瑄
+## Usage
+git clone 
+./trex.py
 
 ## Description
 This is a linguistic game adapted from Google Dino, which aimed to let players get the rules of verb tenses in Esperanto.
@@ -20,6 +21,9 @@ You can press "SPACEBAR" to jump or press "DOWN" to slide.
 ## Language
 Python
 (pygame module)
+
+## Teamwork
+林佩潁, 陳言瑄
 
 ## Adapted from
 https://github.com/shivamshekhar/Chrome-T-Rex-Rush
