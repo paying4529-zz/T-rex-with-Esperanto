@@ -2,7 +2,7 @@
 
 ## Usage
 git clone <br>
-./trex.py
+python3 ./trex.py
 
 ## Description
 This is a linguistic game adapted from Google Dino, which aimed to let players get the rules of verb tenses in Esperanto.
