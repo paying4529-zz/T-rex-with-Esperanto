@@ -1,7 +1,7 @@
 # [語言的邏輯分析Final Project] T-rex-with-Esperanto
 
 ## Usage
-git clone 
+git clone <br>
 ./trex.py
 
 ## Description
